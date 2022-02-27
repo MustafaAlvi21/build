@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf4640f1.chunk.css",
+    "main.js": "/static/js/main.4081149f.chunk.js",
+    "main.js.map": "/static/js/main.4081149f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2455bcf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2455bcf.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.e93acc8c.chunk.js": "/static/js/2.e93acc8c.chunk.js",
+    "static/js/2.e93acc8c.chunk.js.map": "/static/js/2.e93acc8c.chunk.js.map",
+    "static/js/3.f95e7e60.chunk.js": "/static/js/3.f95e7e60.chunk.js",
+    "static/js/3.f95e7e60.chunk.js.map": "/static/js/3.f95e7e60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.cf4640f1.chunk.css.map": "/static/css/main.cf4640f1.chunk.css.map",
+    "static/js/2.e93acc8c.chunk.js.LICENSE.txt": "/static/js/2.e93acc8c.chunk.js.LICENSE.txt",
+    "static/media/Bardi_Image.792e3e44.jpg": "/static/media/Bardi_Image.792e3e44.jpg",
+    "static/media/index.css": "/static/media/modalImg.0c44b45c.jpg",
+    "static/media/Lamb_Image.6d6575b2.jpg": "/static/media/Lamb_Image.6d6575b2.jpg",
+    "static/media/Manzar_Image.6a7e1818.jpg": "/static/media/Manzar_Image.6a7e1818.jpg",
+    "static/media/Musto_Image.8ea3e78e.jpg": "/static/media/Musto_Image.8ea3e78e.jpg",
+    "static/media/cover1.185ac289.webp": "/static/media/cover1.185ac289.webp",
+    "static/media/logo.ce0e5ab3.png": "/static/media/logo.ce0e5ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2455bcf.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e93acc8c.chunk.js",
+    "static/css/main.cf4640f1.chunk.css",
+    "static/js/main.4081149f.chunk.js"
+  ]
+}
